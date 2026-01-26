@@ -1,5 +1,5 @@
 # SIPATK
-Sistem Informasi Pengelolaan Anggaran dan Transaksi Keuangan
+Sistem Informasi Pengelolaan Anggaran dan Transaksi Keuangan.
 
 ## Deskripsi
 SIPATK adalah aplikasi berbasis web yang dirancang untuk membantu
